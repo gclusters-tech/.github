@@ -13,7 +13,7 @@
 
 ## Get started
 
-1. Browse all repositories: https://github.com/gclusters-tech?tab=repositories
+1. Browse all repositories: https://github.com/orgs/gclusters-tech/repositories
 2. Choose a repo and learn its `README.md`, `CONTRIBUTING.md` and issue templates.
 3. Look for issues.
 4. Clone and run sources locally following that repo’s README.
