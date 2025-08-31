@@ -6,22 +6,20 @@
 [![GitHub followers](https://img.shields.io/github/followers/gclusters-tech?style=for-the-badge&logo=github)](https://github.com/gclusters-tech)
 [![Repositories](https://img.shields.io/badge/repos-active-brightgreen?style=for-the-badge&logo=github)](https://github.com/gclusters-tech?tab=repositories)
 [![License](https://img.shields.io/badge/license-apache-red?style=for-the-badge)](./LICENSE)
-[![Contribute](https://img.shields.io/badge/contribute-welcome-purple?style=for-the-badge)](./CONTRIBUTING.md)
-[![Website](https://img.shields.io/badge/website-visit-blueviolet?style=for-the-badge&logo=sagemath)](https://gclusters.tech)
+[![Website](https://img.shields.io/badge/website-visit-purple?style=for-the-badge&logo=sagemath)](https://gclusters.tech)
 [![Status](https://img.shields.io/badge/status-Under%20Development-ffb000?style=for-the-badge)](https://github.com/gclusters-tech)
 </h4>
 
 ## Get started
 
 1. Browse all repositories: https://github.com/orgs/gclusters-tech/repositories
-2. Choose a repo and learn its `README.md`, `CONTRIBUTING.md` and issue templates.
+2. Choose a repo and learn its `README.md`.
 3. Look for issues.
 4. Clone and run sources locally following that repo’s README.
 
 ## Contributing
 
 We welcome different contributions – code, documentation, issues, designs or even sponsorship. \
-Please follow `CONTRIBUTING.md`, `CODE_OF_CONDUCT.md`, use issue and PR templates in each repository and keep PRs small and focused.
 
 Suggested workflow:
 - Fork -> feature/fix branch -> tests + docs -> open PR -> address review -> merge.
